@@ -13,10 +13,10 @@ https://mui.com/x/react-data-grid/
 
 https://formik.org/
 
-## Yup for validation form things
+## Yup - for validation form things
 
 https://www.npmjs.com/package/yup
 
-## For Calendar things
+## For - Calendar things
 
 https://fullcalendar.io/demos
